@@ -1,0 +1,6 @@
+# Exclude Android and iOS platform files from GitHub language statistics
+android/* linguist-vendored
+ios/* linguist-vendored
+
+# Exclude build files
+build/* linguist-vendored
