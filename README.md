@@ -7,9 +7,6 @@ A simple yet beautifully designed Flutter app that showcases an image of a diamo
 - **Polished UI**: Includes shadows, responsive elements, and clean layouts.
 - **Typography**: Styled with bold and clear fonts for a modern look.
 
-## 📸 Screenshot
-(Add a screenshot of your app here if available)
-
 ## 🛠️ Built With
 - **Flutter**: Framework for creating cross-platform mobile applications.
 - **Dart**: Programming language for Flutter development.
@@ -22,3 +19,20 @@ A simple yet beautifully designed Flutter app that showcases an image of a diamo
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/i-am-rich.git
+2. Navigate to the project directory:
+   ```bash
+   cd i-am-rich
+3. Run the app:
+   ```bash
+   flutter run
+
+💡 Lessons Learned
+How to use Flutter widgets like Column, Container, ClipRRect, and Image.
+Styling with BoxShadow, gradients, and padding for a professional UI.
+📣 Future Enhancements
+Add animations for the image and text.
+Include additional pages for an interactive experience.
+## 👨‍💻 Author
+**Syed Abdullah**  
+- [LinkedIn](https://www.linkedin.com/in/syed-abdullah2001/)  
+- [GitHub](https://github.com/Abdullah-Hashmi)
