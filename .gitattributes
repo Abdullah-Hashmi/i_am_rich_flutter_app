@@ -14,3 +14,6 @@
 # Ignore Kotlin files
 *.kt linguist-detectable=false
 *.kts linguist-detectable=false
+
+CMakeLists.txt linguist-detectable=false
+*.cmake linguist-detectable=false
