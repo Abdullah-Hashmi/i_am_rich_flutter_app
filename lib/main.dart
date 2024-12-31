@@ -27,8 +27,8 @@ void main() {
                       borderRadius: BorderRadius.circular(20.0),
                       boxShadow: [
                         BoxShadow(
-                          color: Colors.black.withOpacity(0.5),
-                          offset: const Offset(4, 4),
+                          color: Color.fromRGBO(0, 0, 0, 0.5),
+                          offset: Offset(4, 4),
                           blurRadius: 10.0,
                         ),
                       ],
@@ -40,7 +40,7 @@ void main() {
                       ),
                     ),
                   ),
-                  const SizedBox(height: 20), // Added more spacing for better layout
+                  const SizedBox(height: 20),
                   const Text(
                     "By: Syed Abdullah",
                     style: TextStyle(
@@ -54,7 +54,7 @@ void main() {
                       ],
                       fontSize: 24,
                       fontWeight: FontWeight.bold,
-                      letterSpacing: 1.2, // Added letter spacing
+                      letterSpacing: 1.2,
                     ),
                   ),
                 ],
